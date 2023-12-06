@@ -1,0 +1,7 @@
+If you want to make it executable just use this command
+'pip install pyinstaller'
+
+and run pyinstaller by typing 'pyinstaller --onefile organize.py'
+this will make organize.py a executable file with all the dependencies 
+
+then simply run it like a application
